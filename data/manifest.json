@@ -1,0 +1,25 @@
+{
+  "files": {
+    "env_list": {
+      "path": "4_环保关键名单1017-20260120.xlsx",
+      "sha256": "61807821675d8d3d8d724d723fbd17ac46c2ce9039acca8a09627a942f95006d"
+    },
+    "gb_notes": {
+      "path": "《2017国民经济行业分类注释》（按第1号修改单修订）-V0_2.xlsx",
+      "sha256": "cf066d22dbfdf23495f5ae3eb78150942b588169b36e9ad54c8a3cbea65802e3"
+    },
+    "policy": {
+      "path": "政策审核要求.xlsx",
+      "sha256": "3f9fed333a2e9a6c5075bf15f808ae3c41f8ade72b81cbd3ccec8ad8e9c34ab5"
+    },
+    "green_1": {
+      "path": "绿色能效数据明细20250928-1.xlsx",
+      "sha256": "7cd0ceb2c3f5e97253d23b71c67b4ab5a4d59e65fc9220aafdb22d8bb4c8727d"
+    },
+    "green_2": {
+      "path": "绿色能效数据明细20250928-2.xlsx",
+      "sha256": "82b8665c2f352fd06a97cb248c93053d932ab28c87900ac6756be35281b27119"
+    }
+  },
+  "created": "2026-11-17"
+}

@@ -1,0 +1,35 @@
+# 参考库：仅分发以下已授权参考文件
+data/*
+!data/README.md
+!data/manifest.template.json
+
+!data/4_环保关键名单1017-20260120.xlsx
+!data/《2017国民经济行业分类注释》（按第1号修改单修订）-V0_2.xlsx
+!data/政策审核要求.xlsx
+!data/manifest.json
+
+# 每期投入与产出
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+
+__pycache__/
+*.pyc
+.DS_Store
+*.carry.json
+
+# GUI 本地配置与打包产物
+gui_config.json
+build/
+dist/
+*.spec
+贴息审核助手.app/
+贴息审核助手.exe
+
+# 本地虚拟环境
+.venv/
+venv/
+
+# 大型参考表分块随仓库分发，运行时自动还原
+!data/bundled/

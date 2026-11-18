@@ -1,0 +1,10 @@
+{
+  "files": {
+    "green_1": {"path": "绿色能效数据明细YYYYMMDD-1.xlsx", "sha256": "<init-data 自动生成>"},
+    "green_2": {"path": "绿色能效数据明细YYYYMMDD-2.xlsx", "sha256": "<init-data 自动生成>"},
+    "env_list": {"path": "X_环保关键名单MMDD-YYYYMMDD.xlsx", "sha256": "<init-data 自动生成>"},
+    "policy": {"path": "政策审核要求.xlsx", "sha256": "<init-data 自动生成>"},
+    "gb_notes": {"path": "《2017国民经济行业分类注释》（按第1号修改单修订）-V0_2.xlsx", "sha256": "<init-data 自动生成>"}
+  },
+  "created": "YYYY-MM-DD"
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "path": "绿色能效数据明细20250928-1.xlsx",
+    "sha256": "7cd0ceb2c3f5e97253d23b71c67b4ab5a4d59e65fc9220aafdb22d8bb4c8727d",
+    "parts": [
+      "green_1.000.part",
+      "green_1.001.part",
+      "green_1.002.part",
+      "green_1.003.part",
+      "green_1.004.part",
+      "green_1.005.part",
+      "green_1.006.part",
+      "green_1.007.part",
+      "green_1.008.part"
+    ]
+  },
+  {
+    "path": "绿色能效数据明细20250928-2.xlsx",
+    "sha256": "82b8665c2f352fd06a97cb248c93053d932ab28c87900ac6756be35281b27119",
+    "parts": [
+      "green_2.000.part",
+      "green_2.001.part",
+      "green_2.002.part",
+      "green_2.003.part",
+      "green_2.004.part",
+      "green_2.005.part",
+      "green_2.006.part"
+    ]
+  }
+]
